@@ -1,0 +1,46 @@
+Pandas:
+	It is an integral part of data analysis, and building block of DA and DS.
+
+Index:
+	1. Introduction To Pandas
+	2. DataFrames and Series
+	3. How to View Data?
+	4. selecting Data
+	5. Handling missing data
+	6. Pandas Operations.
+	7. Merge, Group and re shape data
+	8. Time Series and Categorical
+	9. Plotting using Pandas.
+	
+1. Introduction To Pandas
+	Pandas is an python library which is used for data manipulation, analysis and cleaning.
+	we can work on tabular data, order, unordered, unlabeled.
+
+2. DataFrames and Series
+    A DataFrame is a two dimensional, size-mutable, potentially heterogeneous tabular data.
+	
+	series:
+		a series is a one dimensional labeled array capable of holding any type of data
+		Panda series is just like a column in excel sheet.
+
+3. How to View Data?
+	
+4. selecting Data
+
+5. Handling missing data
+
+6. Pandas Operations
+	
+	operations which help explore the data to get conclusions.
+	
+	1. Descriptive statistic operations
+	2. Applying functions to the data
+	3. String processing operations
+	4. Histogramming
+	
+	stack:
+		stack is used to stack the prescribed levels from columns to index,
+		and it returns a reshaped dataFrame or series, having mulit level index
+
+
+   
